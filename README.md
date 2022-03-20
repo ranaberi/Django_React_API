@@ -8,5 +8,3 @@ Create
 Read
 Update
 Delete
-"# Django-React-API-repo" 
-"# Django_React_API" 
